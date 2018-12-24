@@ -1,0 +1,9 @@
+# local package
+-e .
+
+# external requirements
+numpy
+scipy
+pandas
+keras
+plotly
